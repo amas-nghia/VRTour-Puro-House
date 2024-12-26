@@ -4,6 +4,7 @@
 
 ### URL
 LinkBehaviour_ED0C3931_FE3D_BC05_41D2_C21D3201FFD7.source = http://www.loremipsum.com
+LinkBehaviour_4C293CD8_01C3_D6CE_416B_7BC3B52D8EB8.source = https://dvat.com.vn/
 LinkBehaviour_28C09EA5_0047_5546_4165_6FAB0323B7FE.source = https://www.facebook.com/purohouse68
 WebFrame_198A3B12_1666_89B6_41B5_4C2585EFD00E.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4419.832957733842!2d105.93924489999999!3d20.950499999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135af7867edcbbb%3A0x913d7ea6be1db321!2sPuro%20House!5e1!3m2!1svi!2s!4v1735186302599!5m2!1svi!2s
 
@@ -74,11 +75,13 @@ Button_33E0F47E_11C1_A20D_419F_BB809AD89259.label = Thực đơn
 Image_149C89ED_004F_5EC6_4160_E02E8465AFCB.url = skin/Image_149C89ED_004F_5EC6_4160_E02E8465AFCB_en.png
 Image_15F3A752_021D_7407_411E_A6DCDC51F6A0.url = skin/Image_15F3A752_021D_7407_411E_A6DCDC51F6A0_en.png
 Image_1D3B40F4_004F_6EC6_414B_423FBDCFA058.url = skin/Image_1D3B40F4_004F_6EC6_414B_423FBDCFA058_en.png
+Image_4F796F08_01CF_734E_416C_6A2DBB92E342.url = skin/Image_4F796F08_01CF_734E_416C_6A2DBB92E342_en.png
 Image_9511127C_9B79_D2C1_41D8_D080B87BFD84.url = skin/Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_en.png
 
 ### Label
 Label_14F82305_1BED_F1EE_41AD_7A6E6AD00A22.text = ITALIAN FOOD - PUB - SUSHI
 Label_13F5C962_004C_DFC2_414C_46BAB62B347C.text = ITALIAN FOOD - PUB - SUSHI
+Label_4AD078B5_01C3_FD46_4166_63114DA1D740.text = Tour được tạo bởi:
 
 ### Multiline Text
 HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vh;font-family:'Open Sans Semibold';"><B>Cảnh quan:</B></SPAN></SPAN></DIV></div>
